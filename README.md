@@ -1,1 +1,1 @@
-# sony_camera_cntl
+# sony_camera_control
